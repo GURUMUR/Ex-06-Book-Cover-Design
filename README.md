@@ -111,4 +111,4 @@ Add images and other contents using CSS record a screenshot of it.
 ```
 # output
 
-![output](book_cover_page.png)
+![book_cover_page](https://github.com/GURUMUR/Ex-06-Book-Cover-Design/assets/144895197/5d65fba0-b3be-4455-9a2c-7b3b8733a099)
